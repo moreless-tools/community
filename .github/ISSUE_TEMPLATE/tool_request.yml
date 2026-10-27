@@ -1,0 +1,29 @@
+name: Suggest a tool or improvement
+description: Tell us about the job you want to get done.
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: "Tell us about the task rather than a long feature list. Requests are public. We read them, but a request is not a release commitment."
+  - type: dropdown
+    id: product
+    attributes:
+      label: Where would you use it?
+      options:
+        - Web tools
+        - Mac app (in development)
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: What are you trying to do?
+      description: A real example helps us understand the task.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How do you do it today?
+      description: Optional. What takes too long or gets in the way?
