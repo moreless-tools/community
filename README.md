@@ -1,25 +1,19 @@
-# Help shape MORELESS
+# MORELESS community
 
-This is the public place to report a problem or suggest a tool for [MORELESS](https://moreless.tools/en/).
+The [MORELESS feedback board](https://moreless.tools/en/feedback/) is where we collect feature requests and track known issues for the web tools and Mac app.
 
-**[Report a bug](https://github.com/moreless-tools/community/issues/new?template=bug_report.yml)** &nbsp; · &nbsp; **[Suggest a tool or improvement](https://github.com/moreless-tools/community/issues/new?template=tool_request.yml)**
+**[Open the feedback board](https://moreless.tools/en/feedback/)**
 
-Search [existing issues](https://github.com/moreless-tools/community/issues) first. If someone has already described your idea, add a reaction or a useful example there.
+Browse existing requests before adding yours. Vote for a feature you need, or describe the job you want to do and what gets in the way.
 
-## A useful report
+## Report a problem
 
-Tell us which tool you used, how to reproduce the problem and what you expected. A browser version or a small, non-sensitive sample can help.
+Use the feedback board for bugs. Include the tool name and the steps that led to the problem. A small example helps us reproduce it. Remove private information before posting.
 
-Issues are public. Remove personal details, credentials and private documents before posting. For a suspected security problem, email [hello@moreless.tools](mailto:hello@moreless.tools) privately.
+For security reports or anything that should stay private, email [hello@moreless.tools](mailto:hello@moreless.tools).
 
-## What this repository contains
+## Talk with MORELESS
 
-Feedback and requests for MORELESS. Product source code is maintained separately. Opening this hub does not change how the products are licensed.
+[Discord](https://discord.gg/dyZFqFVncz) · [Reddit](https://www.reddit.com/r/moreless_official/) · [Contact](mailto:hello@moreless.tools)
 
-MORELESS for Mac is in development. Requests for the web tools and the Mac app are both welcome; please say which one you mean.
-
-## Elsewhere
-
-[Use the free tools](https://moreless.tools/en/) · [Discord](https://discord.gg/dyZFqFVncz) · [Contact](mailto:hello@moreless.tools)
-
-Built by Daniel in Prague. MORELESS s.r.o.
+[Explore the free web tools](https://moreless.tools/en/) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
