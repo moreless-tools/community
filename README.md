@@ -24,7 +24,7 @@ For security reports or anything that should stay private, email [hello@moreless
 ## Talk with MORELESS
 
 
-[Discord](https://discord.gg/tfuN2Wjpk5) · [Reddit](https://www.reddit.com/r/moreless_official/) · [Contact](mailto:hello@moreless.tools)
+[Reddit](https://www.reddit.com/r/moreless_official/) · [Contact](mailto:hello@moreless.tools)
 
 
 [Explore the free web tools](https://moreless.tools/en/) · [MORELESS for Mac](https://moreless.tools/en/app/mac/) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
