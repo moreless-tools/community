@@ -18,14 +18,13 @@ Open [moreless.tools](https://moreless.tools/en/) and choose **Report a problem*
 Check the [known issues](https://moreless.tools/en/feedback/?type=bugs), [guides](https://moreless.tools/en/docs/) and [troubleshooting notes](https://moreless.tools/en/docs/faq/troubleshooting/) first. There may already be an answer.
 
 
-For security reports or anything that should stay private, email [hello@moreless.tools](mailto:hello@moreless.tools).
+For security reports or anything that should stay private, email [daniel@moreless.solutions](mailto:daniel@moreless.solutions).
 
 
 ## Talk with MORELESS
 
 
-[Reddit](https://www.reddit.com/r/moreless_official/) · [Contact](mailto:hello@moreless.tools)
+[Reddit](https://www.reddit.com/r/moreless_official/) · [Contact](mailto:daniel@moreless.solutions)
 
 
-[Open MORELESS](https://moreless.tools/en/) · [MORELESS for Mac](https://moreless.tools/en/app/mac/) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
-
+[Open MORELESS](https://moreless.tools/en/) · [Demos and sample files](https://github.com/moreless-tools/moreless) · [MORELESS for Mac](https://moreless.tools/en/app/mac/) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
