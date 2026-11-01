@@ -1,7 +1,7 @@
 # MORELESS community
 
 
-The [MORELESS feedback board](https://moreless.tools/en/feedback/) is where we collect feature requests and track known issues for the web tools and Mac app.
+The [feedback board](https://moreless.tools/en/feedback/) is where we collect feature requests and track known issues for MORELESS.
 
 
 **[Open the feedback board](https://moreless.tools/en/feedback/)**
@@ -15,7 +15,7 @@ Browse existing requests before adding yours. Vote for a feature you need, or de
 
 Open [moreless.tools](https://moreless.tools/en/) and choose **Report a problem** in the footer. Include the tool name, your browser and device, the steps that led to the problem, and what you expected to happen. A small example or screenshot helps us reproduce it. Remove private information before sending.
 
-Check the [known issues](https://moreless.tools/en/feedback/?type=bugs), [guides](https://moreless.tools/en/docs/) and [troubleshooting notes](https://moreless.tools/en/docs/faq/troubleshooting/) first; there may already be an answer.
+Check the [known issues](https://moreless.tools/en/feedback/?type=bugs), [guides](https://moreless.tools/en/docs/) and [troubleshooting notes](https://moreless.tools/en/docs/faq/troubleshooting/) first. There may already be an answer.
 
 
 For security reports or anything that should stay private, email [hello@moreless.tools](mailto:hello@moreless.tools).
@@ -27,5 +27,5 @@ For security reports or anything that should stay private, email [hello@moreless
 [Reddit](https://www.reddit.com/r/moreless_official/) · [Contact](mailto:hello@moreless.tools)
 
 
-[Explore the free web tools](https://moreless.tools/en/) · [MORELESS for Mac](https://moreless.tools/en/app/mac/) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
+[Open MORELESS](https://moreless.tools/en/) · [MORELESS for Mac](https://moreless.tools/en/app/mac/) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
 
